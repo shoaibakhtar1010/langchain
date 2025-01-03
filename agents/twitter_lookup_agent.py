@@ -44,4 +44,4 @@ def lookup(name: str) -> str:
 
 
 if __name__ == "__main__":
-    print(lookup(name="Elon Musk"))
+    print(lookup(name="Richard Branson"))

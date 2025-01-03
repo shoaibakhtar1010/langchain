@@ -40,4 +40,4 @@ if __name__ == "__main__":
     load_dotenv()
 
     print("Ice Breaker Enter")
-    ice_break_with(name="Harrison Chase")
+    ice_break_with(name="Richard Branson")
